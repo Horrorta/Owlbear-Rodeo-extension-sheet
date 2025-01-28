@@ -1,10 +1,13 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Owlbear Rodeo Extension</title>
 </head>
 <body>
-    <h1>Owlbear Rodeo Extension está funcionando!</h1>
-    <p>Se você vê essa página, o GitHub Pages foi ativado.</p>
+    <h1>Extensão Owlbear Rodeo</h1>
+    <p>Para usar esta extensão no Owlbear Rodeo, insira este link:</p>
+    <code>https://horrorta.github.io/Owlbear-Rodeo-extension-sheet/docs/manifest.json</code>
 </body>
 </html>

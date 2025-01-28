@@ -1,0 +1,7 @@
+{
+  "name": "Visualizador de Fichas de Monstros",
+  "description": "Extensão para abrir imagens ou links de fichas de monstros ao clicar em um botão no token.",
+  "version": "1.0.0",
+  "author": "Seu Nome",
+  "entry": "extension.js"
+}

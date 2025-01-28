@@ -3,11 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Owlbear Rodeo Extension</title>
+    <title>Minha Extensão do Owlbear Rodeo</title>
 </head>
 <body>
-    <h1>Extensão Owlbear Rodeo</h1>
-    <p>Para usar esta extensão no Owlbear Rodeo, insira este link:</p>
-    <code>https://horrorta.github.io/Owlbear-Rodeo-extension-sheet/docs/manifest.json</code>
+    <h1>Minha extensão do Owlbear Rodeo</h1>
+    <p>Configure seu Owlbear Rodeo para carregar a extensão a partir deste link:</p>
+    <a href="https://horrorta.github.io/Owlbear-Rodeo-extension-sheet/docs/manifest.json" target="_blank">
+        Carregar Extensão
+    </a>
 </body>
 </html>
